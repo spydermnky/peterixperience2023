@@ -1,0 +1,23 @@
+body {
+    background: radial-gradient(circle, rgb(85, 214, 62) 0%, rgb(195, 127, 24) 100%);
+}
+
+h1 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table th {
+    border-bottom: 1px solid black;
+}
+
+#grad {
+    background-image: linear-gradient(red, yellow);
+  }
